@@ -1,0 +1,19 @@
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.log
+
+# Build or temp files
+*.zip
+*.tmp
+*.bak
+node_modules/
+dist/
